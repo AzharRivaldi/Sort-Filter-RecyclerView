@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/Konten/Sort Filter RecyclerView/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.143" />
+        <entry key="..\:/ANDROID/Konten/Sort Filter RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Konten/Sort Filter RecyclerView/app/src/main/res/layout/bottom_sheet_filter.xml" value="0.22" />
+        <entry key="..\:/ANDROID/Konten/Sort Filter RecyclerView/app/src/main/res/layout/list_item_main.xml" value="0.1" />
+        <entry key="..\:/AS Source Code/Konten/Sort Filter RecyclerView/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/Sort Filter RecyclerView/app/src/main/res/drawable/ic_sort.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/Sort Filter RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AS Source Code/Konten/Sort Filter RecyclerView/app/src/main/res/layout/bottom_sheet_filter.xml" value="0.209375" />
+        <entry key="..\:/AS Source Code/Konten/Sort Filter RecyclerView/app/src/main/res/layout/list_item_main.xml" value="0.20615384615384616" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
